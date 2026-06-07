@@ -48,7 +48,7 @@ http://localhost:8000
 ## 파일 구조
 
 ```text
-healing-song-youtube-local-ready/
+healing song player/
 ├─ index.html
 ├─ css/
 │  └─ style.css
@@ -57,6 +57,7 @@ healing-song-youtube-local-ready/
 ├─ data/
 │  └─ songs.json
 ├─ assets/
+├─ README.md
 ├─ start-local.bat
 ├─ start-local.ps1
 └─ .nojekyll
