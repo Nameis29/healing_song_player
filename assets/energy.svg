@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="활력을 표현한 오렌지색 추상 이미지">
+  <rect width="960" height="600" fill="#fff3e8"/>
+  <path d="M100 460 280 120 390 360 540 100 690 380 840 160" fill="none" stroke="#d99a6c" stroke-width="38" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="705" cy="365" r="96" fill="#576b4f" opacity="0.85"/>
+  <text x="72" y="104" fill="#34412f" font-family="Arial" font-size="48" font-weight="700">ENERGY</text>
+</svg>

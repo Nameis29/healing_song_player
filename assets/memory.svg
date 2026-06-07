@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="추억을 표현한 노란빛 추상 이미지">
+  <rect width="960" height="600" fill="#fff8dc"/>
+  <rect x="160" y="130" width="640" height="360" rx="48" fill="#fff" stroke="#e2d8ca" stroke-width="12"/>
+  <circle cx="350" cy="300" r="95" fill="#d99a6c" opacity="0.88"/>
+  <circle cx="590" cy="300" r="95" fill="#576b4f" opacity="0.88"/>
+  <text x="72" y="104" fill="#34412f" font-family="Arial" font-size="48" font-weight="700">MEMORY</text>
+</svg>

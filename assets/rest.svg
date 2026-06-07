@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="휴식을 표현한 부드러운 파도 추상 이미지">
+  <rect width="960" height="600" fill="#eef6f4"/>
+  <path d="M0 330 C160 260 280 420 440 340 S720 230 960 330 V600 H0 Z" fill="#cbd9c0"/>
+  <path d="M0 420 C160 350 280 500 440 430 S720 320 960 430 V600 H0 Z" fill="#576b4f" opacity="0.82"/>
+  <text x="72" y="104" fill="#34412f" font-family="Arial" font-size="48" font-weight="700">REST</text>
+</svg>

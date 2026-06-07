@@ -1,0 +1,134 @@
+{
+  "songs": [
+    {
+      "title": "BRAIN",
+      "artist": "Kanaria",
+      "mood": "dreamy",
+      "moodLabel": "몽환적인",
+      "reason": "강한 비트와 신비로운 전자 사운드가 어두운 분위기 속에서 몰입감을 만들어 주는 곡입니다.",
+      "lyric": "현실과 꿈 사이를 걷는 듯한 긴장감",
+      "image": "assets/night.svg",
+      "link": "https://www.youtube.com/watch?v=h4HkXR3NSI4"
+    },
+    {
+      "title": "Serenade",
+      "artist": "natori",
+      "mood": "energetic",
+      "moodLabel": "활기찬",
+      "reason": "가볍게 움직이는 리듬과 선명한 보컬이 기분 전환이 필요할 때 잘 어울립니다.",
+      "lyric": "발걸음을 조금 더 가볍게 만드는 리듬",
+      "image": "assets/energy.svg",
+      "link": "https://www.youtube.com/watch?v=gNg2Qw5R-Q4"
+    },
+    {
+      "title": "Overdose",
+      "artist": "natori",
+      "mood": "dreamy",
+      "moodLabel": "몽환적인",
+      "reason": "반복되는 그루브와 묘하게 중독적인 분위기가 생각을 잠시 다른 곳으로 데려가는 곡입니다.",
+      "lyric": "계속 맴도는 멜로디 속으로 천천히 빠져드는 느낌",
+      "image": "assets/night.svg",
+      "link": "https://www.youtube.com/watch?v=H08YWE4CIFQ"
+    },
+    {
+      "title": "W/X/Y (Live.ver)",
+      "artist": "Tani Yuuki",
+      "mood": "sentimental",
+      "moodLabel": "애틋한",
+      "reason": "라이브 특유의 감정선이 잘 살아 있어 누군가를 떠올리며 듣기 좋은 곡입니다.",
+      "lyric": "말로 다 못한 마음이 조용히 남는 순간",
+      "image": "assets/memory.svg",
+      "link": "https://www.youtube.com/watch?v=LmM2rPRjvdM"
+    },
+    {
+      "title": "모호함",
+      "artist": "Rokudenashi",
+      "mood": "sentimental",
+      "moodLabel": "애틋한",
+      "reason": "섬세한 보컬과 잔잔한 흐름이 애매하게 남은 감정을 정리할 때 어울립니다.",
+      "lyric": "선명하지 않아서 더 오래 남는 마음",
+      "image": "assets/calm.svg",
+      "link": "https://www.youtube.com/watch?v=_63ShFaYFFw"
+    },
+    {
+      "title": "만찬가",
+      "artist": "tuki.",
+      "mood": "sentimental",
+      "moodLabel": "애틋한",
+      "reason": "담담하지만 깊게 쌓이는 감정이 있어 조용히 마음을 붙잡고 싶을 때 잘 맞습니다.",
+      "lyric": "오늘의 끝에 천천히 차오르는 여운",
+      "image": "assets/memory.svg",
+      "link": "https://www.youtube.com/watch?v=oZpYEEcvu5I"
+    },
+    {
+      "title": "Teeth",
+      "artist": "5 Seconds of Summer",
+      "mood": "energetic",
+      "moodLabel": "활기찬",
+      "reason": "강한 드럼과 공격적인 분위기가 처진 기분을 빠르게 끌어올려 줍니다.",
+      "lyric": "멈춰 있던 하루를 다시 움직이게 하는 에너지",
+      "image": "assets/energy.svg",
+      "link": "https://www.youtube.com/watch?v=JWeJHN5P-E8"
+    },
+    {
+      "title": "SOME LIKE IT HOT",
+      "artist": "SPYAIR",
+      "mood": "uplifting",
+      "moodLabel": "가슴이 벅차오르는",
+      "reason": "시원하게 터지는 밴드 사운드가 앞으로 달려가고 싶은 감정을 만들어 줍니다.",
+      "lyric": "한 번 더 해낼 수 있을 것 같은 뜨거운 추진력",
+      "image": "assets/focus.svg",
+      "link": "https://www.youtube.com/watch?v=eMa_cXrnVgw"
+    },
+    {
+      "title": "결과 All right",
+      "artist": "Kocchi no Kento",
+      "mood": "uplifting",
+      "moodLabel": "가슴이 벅차오르는",
+      "reason": "밝고 긍정적인 흐름이 불안한 마음을 털어내고 다시 시작하게 만드는 곡입니다.",
+      "lyric": "결국 괜찮아질 거라는 확신이 드는 순간",
+      "image": "assets/energy.svg",
+      "link": "https://www.youtube.com/watch?v=Ug0N4qGRp_w"
+    },
+    {
+      "title": "Curtain Call",
+      "artist": "Yuuri",
+      "mood": "uplifting",
+      "moodLabel": "가슴이 벅차오르는",
+      "reason": "감정이 점점 고조되는 전개가 마무리와 새로운 시작을 동시에 떠올리게 합니다.",
+      "lyric": "끝이라고 생각한 순간 다시 켜지는 조명",
+      "image": "assets/memory.svg",
+      "link": "https://www.youtube.com/watch?v=HChMIvfqdZA"
+    },
+    {
+      "title": "time machine (Live.ver)",
+      "artist": "Yuuri",
+      "mood": "sentimental",
+      "moodLabel": "애틋한",
+      "reason": "라이브의 호흡과 보컬 표현이 지나간 시간에 대한 그리움을 자연스럽게 느끼게 합니다.",
+      "lyric": "돌아갈 수 없는 시간 앞에서 잠시 멈추는 마음",
+      "image": "assets/calm.svg",
+      "link": "https://www.youtube.com/watch?v=yGyl8_Tqj8k"
+    },
+    {
+      "title": "괴수의 꽃노래",
+      "artist": "Vaundy",
+      "mood": "uplifting",
+      "moodLabel": "가슴이 벅차오르는",
+      "reason": "힘 있게 뻗는 멜로디와 밴드 사운드가 답답한 마음을 시원하게 열어 줍니다.",
+      "lyric": "마음속에 크게 피어나는 뜨거운 노래",
+      "image": "assets/focus.svg",
+      "link": "https://www.youtube.com/watch?v=YLOr1bdTYaM"
+    },
+    {
+      "title": "Friday night",
+      "artist": "natori",
+      "mood": "dreamy",
+      "moodLabel": "몽환적인",
+      "reason": "도시적인 리듬과 나른한 분위기가 밤에 혼자 듣기 좋은 흐름을 만들어 줍니다.",
+      "lyric": "금요일 밤의 공기처럼 살짝 들뜨고 흐릿한 감각",
+      "image": "assets/night.svg",
+      "link": "https://www.youtube.com/watch?v=4Pls29qqg6Y"
+    }
+  ]
+}

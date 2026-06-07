@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" role="img" aria-label="집중을 표현한 격자 추상 이미지">
+  <rect width="960" height="600" fill="#f8f4ea"/>
+  <g stroke="#d9c8af" stroke-width="3">
+    <path d="M0 120H960M0 240H960M0 360H960M0 480H960"/>
+    <path d="M160 0V600M320 0V600M480 0V600M640 0V600M800 0V600"/>
+  </g>
+  <circle cx="480" cy="300" r="150" fill="#576b4f" opacity="0.9"/>
+  <circle cx="480" cy="300" r="64" fill="#d99a6c"/>
+  <text x="72" y="104" fill="#34412f" font-family="Arial" font-size="48" font-weight="700">FOCUS</text>
+</svg>
